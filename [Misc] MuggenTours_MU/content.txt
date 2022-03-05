@@ -1,0 +1,21 @@
+[Misc] MuggenTours_MU
+
+	Dieser mod ersetzt die mittige Strommasten mit Strommasten die am Straßenrand platziert sind und Stromkabel die eine Beleuchtung mit Hängelampen haben
+	
+	Fügt zwei weitere Oberleitungsbus skins zur Bushaltestelle hinzu.
+	
+	
+	Anmerkung: diesen mod nicht all zu ernst nehmen ;)
+	
+	
+	
+	ACHTUNG!!
+	
+	NICHT KOMPATIBEL ZU SPIU : [Ornamental] Electric Lighting instead of Electricity Wires.
+	
+	Dieser MUSS deaktiviert sein !
+		
+	
+	
+	viel spaß damit wünscht euch
+	muggenstuermer

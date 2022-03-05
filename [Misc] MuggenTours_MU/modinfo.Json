@@ -1,0 +1,77 @@
+{
+  "Version": "1.0",
+  "ModID": "MuggenTours_MU",
+  "IncompatibleIds": null,
+  "ModDependencies": null,
+  "Category": {
+    "Chinese": null,
+    "English": "Misc",
+    "French": "Divers",
+    "German": "Sonstiges",
+    "Italian": null,
+    "Japanese": null,
+    "Korean": null,
+    "Polish": null,
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  },
+  "ModName": {
+    "Chinese": null,
+    "English": "MuggenTours_MU",
+    "French": "MuggenTours_MU",
+    "German": "MuggenTours_MU",
+    "Italian": null,
+    "Japanese": null,
+    "Korean": null,
+    "Polish": null,
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  },
+  "Description": {
+    "Chinese": null,
+    "English": "Replaces original center power poles with roadside-placed power poles and power cords that have hanging lamp lighting. Adds two more trolleybus skins.",
+    "French": "Remplace les poteaux électriques centraux d'origine par des poteaux électriques placés en bordure de route et des cordons d'alimentation dotés d'un éclairage de lampe suspendu. Ajoute deux autres skins de trolleybus.",
+    "German": "Ersetzt Originale mittige Strommasten mit Strommasten die am Straßenrand platziert sind und Stromkabel die eine Beleuchtung mit Hängelampen haben.Fügt zwei weitere Oberleitungsbus skins hinzu.",
+    "Italian": null,
+    "Japanese": null,
+    "Korean": null,
+    "Polish": null,
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  },
+  "KnownIssues": [
+    {
+      "Chinese": null,
+      "English": null,
+      "French": null,
+      "German": null,
+      "Italian": null,
+      "Japanese": null,
+      "Korean": null,
+      "Polish": null,
+      "Russian": null,
+      "Spanish": null,
+      "Taiwanese": null
+    },
+    {
+      "Chinese": null,
+      "English": null,
+      "French": null,
+      "German": null,
+      "Italian": null,
+      "Japanese": null,
+      "Korean": null,
+      "Polish": null,
+      "Russian": null,
+      "Spanish": null,
+      "Taiwanese": null
+    }
+  ],
+  "DLCDependencies": "Tourist Season",
+  "CreatorName": "muggenstuermer",
+  "CreatorContact": "https://discord.gg/TPZmTWrxke",
+  "Image" : null
+}

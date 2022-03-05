@@ -1,0 +1,21 @@
+[Misc] MuggenTours_MU
+
+	Cette modification remplace les poteaux électriques centraux par des poteaux électriques placés au bord de la route et les câbles électriques qui ont un éclairage par des lampes suspendues.
+	
+	Ajoute deux skins de trolleybus supplémentaires à l'arrêt de bus.
+	
+	
+	Note : ne prenez pas ce mod trop au sérieux ;)
+	
+	
+	
+	ATTENTION ! !!
+	
+	PAS COMPATIBLE AVEC SPIU : [Ornamental] Eclairage électrique au lieu des câbles électriques.
+	
+	Ceci doit être désactivé !
+		
+	
+	
+	Amusez-vous bien avec ce mod
+	muggenstuermer
